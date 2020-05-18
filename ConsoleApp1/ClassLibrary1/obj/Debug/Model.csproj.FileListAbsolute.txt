@@ -1,0 +1,12 @@
+C:\Users\ibrkhan\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ibrkhan\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ibrkhan\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\ibrkhan\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\ibrkhan\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ibrkhan\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\mibisen\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\mibisen\source\repos\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\mibisen\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\mibisen\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\mibisen\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\mibisen\source\repos\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

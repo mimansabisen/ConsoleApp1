@@ -1,0 +1,6 @@
+C:\Users\ibrkhan\source\repos\ConsoleApp1\DataBase\bin\Debug\DataBase.dll
+C:\Users\ibrkhan\source\repos\ConsoleApp1\DataBase\bin\Debug\DataBase.pdb
+C:\Users\ibrkhan\source\repos\ConsoleApp1\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\ibrkhan\source\repos\ConsoleApp1\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\ibrkhan\source\repos\ConsoleApp1\DataBase\obj\Debug\DataBase.dll
+C:\Users\ibrkhan\source\repos\ConsoleApp1\DataBase\obj\Debug\DataBase.pdb

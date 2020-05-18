@@ -1,0 +1,3 @@
+Log Entry : 12:34:14 PM Monday, May 18, 2020
+-------------------------------
+Message - > :This is log message : -18-May-20 12:34:14 PM

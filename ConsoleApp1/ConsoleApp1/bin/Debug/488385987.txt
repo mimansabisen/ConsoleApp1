@@ -1,0 +1,3 @@
+Log Entry : 7:18:08 PM Sunday, April 26, 2020
+-------------------------------
+Message - > :This is sample log message
